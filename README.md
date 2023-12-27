@@ -1,4 +1,4 @@
-# Recommendation System using Collaborative Filtering (KNN and Funk SVD Model) for Movie Recommendation
+# Recommendation System using Collaborative Filtering (KNN and Funk SVD Model) for Movie Recommendations
 ## A.	Business Problem 
 
 Industri hiburan dan streaming telah berkembang pesat selama beberapa tahun terakhir, dengan banyak platform bersaing untuk menarik perhatian dan mempertahankan User mereka. Cinema-Iflix.com, salah satu platform streaming yang telah ada dalam industri ini, saat ini sedang menghadapi tantangan serius dalam hal retensi User. Retensi User adalah salah satu komponen kritis dalam mengukur keberhasilan platform streaming, karena mencerminkan kemampuan platform untuk mempertahankan User yang telah mendaftar dan memperpanjang langganan mereka.
